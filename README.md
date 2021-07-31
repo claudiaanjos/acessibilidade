@@ -1,4 +1,4 @@
-# CSS Grid
+# Acessibilidade
 
 ### Projeto desenvolvido para o curso de *Acessibilidade web parte 1: tornando seu front-end inclusivo* do instrutor Natan Souza (Alura).
 
