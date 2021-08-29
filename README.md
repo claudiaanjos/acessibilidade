@@ -13,16 +13,11 @@ Objetivos do curso:
 - Utilizar técnicas front-end que podem ajudar os usuários;
 - Deixar seu projeto ainda mais inclusivo.
 
-### 🖥️  Instalações
+### 🖥️  Recursos Utilizados
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [NVA](https://www.nvaccess.org/)
 
-### ⚒️  Tecnologias
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 &nbsp;
 
